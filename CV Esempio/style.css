@@ -1,0 +1,20 @@
+/* SELETTORE {
+proprieta:valore;
+proprieta:valore;
+} */
+
+header{
+background-color: rgb(216, 216, 216);
+text-align: center;
+}
+
+.evidenza
+ {
+    color: rgb(214, 162, 20);
+}
+
+
+h3{
+    font-style: italic;
+}
+
